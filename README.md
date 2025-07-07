@@ -1,6 +1,3 @@
-#include <stdio.h>
-
-int main () { 
-  printf["Hello World"\n"]
-  return 0;
-  }
+#Hello World
+my name is kyle aguirre
+this is my first time coding
